@@ -21,7 +21,7 @@ st.write(
 if "df" not in st.session_state:
 
     # Set seed for reproducibility.
-    np.random.seed(42)
+    np.random.seed(420)
 
     # Make up some fake issue descriptions.
     issue_descriptions = [
